@@ -31,3 +31,5 @@
 *Event - Event
 
 *Medal - Gold, Silver, Bronze, or NA
+
+Bu bilgiler doğrultusunda veri seti üzerinde işlemler yapılmıştır. 
